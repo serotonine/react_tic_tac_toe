@@ -1,8 +1,4 @@
-https://www.udemy.com/course/react-the-complete-guide-incl-redux/
-# React Practive Food Order App
-
-
-# REACT PRACTICE FOOD ORDER
+# REACT TIC TAC TOE
 ### Repository
 [https://github.com/serotonine/react_tic_tac_toe](https://github.com/serotonine/react_tic_tac_toe)
 
